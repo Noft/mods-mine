@@ -1,12 +1,5 @@
 class Main {
   public static void main(String[] args) {
-    System.out.println("Oi, Breno!");
+    System.out.println("Oiii");
   }
-}Oi adadad ]
-
-a
-d
-asd
-
-g
-adad
+}
